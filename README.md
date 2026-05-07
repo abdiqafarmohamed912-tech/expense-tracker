@@ -106,7 +106,7 @@ No installation or setup required.
 - **Abdiqafar Mohamed**
   Student Developer passionate about web development and building things that solve real problems.
   ## 🚀 Future Improvements
-## 📬 Contact
+  -Add expense filtering by category## 📬 Contact
 
 - Email: abdiqafarmohamed912@gmail.com
 - GitHub: https://github.com/abdiqafarmohamed912-tech
