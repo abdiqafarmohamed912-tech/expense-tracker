@@ -68,7 +68,7 @@ expense-tracker/
 1. Ensure JavaScript is enabled in your browser for full functionality
 2. Clone or download the repository
 3. Open the project folder in VS Code
-3. Open `index.html` in your browser
+4. Open `index.html` in your browser
 4. Start logging your expenses
 
 No installation or setup required.
