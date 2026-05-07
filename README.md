@@ -105,7 +105,7 @@ No installation or setup required.
 
 - **Abdiqafar Mohamed**
   Student Developer passionate about web development and building things that solve real problems.
-
+  ## 🚀 Future Improvements
 ## 📬 Contact
 
 - Email: abdiqafarmohamed912@gmail.com
