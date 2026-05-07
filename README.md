@@ -44,7 +44,8 @@ The app saves all data using the browser's **LocalStorage**, so your expense his
 ---
 
 ## 🛠️ Technologies Used
-- **Git & GitHub** – Version control and project hosting- **HTML5** – Structure of the application
+- **Git & GitHub** – Version control and project hosting
+  - **HTML5** – Structure of the application
 - **CSS3** – Styling and layout (Dark & Green theme)
 - **JavaScript (Vanilla JS)** – Logic and interactivity
 - **LocalStorage API** – Saving and retrieving data
