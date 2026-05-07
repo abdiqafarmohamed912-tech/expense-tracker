@@ -3,8 +3,7 @@
 ---
 
 ## 📌 Project Description
-This project was created as part of my Foundations of Software Engineering final project to demonstrate practical front-end development skills.
-The Expense Tracker is a web application I built to help people record and manage their daily expenses. I created this project because I noticed that it can be hard to keep track of where your money goes on a day to day basis. This app makes it easy to log every expense and see your spending history in one place.
+This project was created as part of my Foundations of Software Engineering final project to demonstrate practical front-end development skills.The Expense Tracker is a web application I built to help people record and manage their daily expenses. I created this project because I noticed that it can be hard to keep track of where your money goes on a day to day basis. This app makes it easy to log every expense and see your spending history in one place.
 
 Users can enter details such as:
 - Expense name
