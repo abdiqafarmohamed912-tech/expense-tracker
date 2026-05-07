@@ -108,6 +108,7 @@ No installation or setup required.
   ## 🚀 Future Improvements
   -Add expense filtering by category
   -Add monthly spending charts
+  -Add export PDF or CSV
    ## 📬 Contact
 
 - Email: abdiqafarmohamed912@gmail.com
