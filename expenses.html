@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="View all your saved expenses and spending statistics.">
+  <title>Expenses – Expense Tracker</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="top-bar"></div>
+
+  <!-- navbar -->
+  <header>
+    <nav>
+      <p class="nav-logo">💰 <span>Expense</span> Tracker</p>
+      <ul class="nav-links">
+        <li><a href="index.html">Add Expense</a></li>
+        <li><a href="expenses.html" class="active">Expenses</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- page intro -->
+  <div class="intro-section">
+    <strong>Your <span>Expenses</span></strong>
+    <p>All your saved expenses are displayed below.</p>
+  </div>
+
+  <main>
+    <section class="card">
+
+      <div class="card-header">
+        <span>📊</span>
+        <div>
+          <p>Saved Expenses</p>
+          <small>Retrieved from your browser storage</small>
+        </div>
+      </div>
+
+      <div class="card-body">
+
+        <!-- stats summary -->
+        <div id="stats-bar" class="stats-bar"></div>
+
+        <!-- expense list filled by expenses.js -->
+        <div id="expense-list"></div>
+
+        <!-- clear all button -->
+        <button type="button" id="btn-clear" class="btn-clear-all">
+          Clear All Expenses
+        </button>
+
+        <!-- back link -->
+        <a href="index.html" class="back-link">← Add a New Expense</a>
+
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="footer-year"></span> Expense Tracker — Abdiqafar Mohamed</p>
+    <p><a href="index.html">Add Expense</a> · <a href="about.html">About</a></p>
+  </footer>
+
+  <div class="bottom-bar"></div>
+  <script src="expenses.js"></script>
+</body>
+</html>
